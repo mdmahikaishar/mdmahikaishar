@@ -90,3 +90,17 @@ All of my projects are available at [mdmahikaishar.com/projects](mdmahikaishar.v
 #
 
 #
+
+## 📱 **Find Me**
+
+Feel free to reach out to me at [mahikaishar@gmail.com](mailto:mahikaishar@gmail.com) for collaboration, discussions, or just to geek out about the latest in tech!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A63BC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdmahikaishar)
+[![Twitter](https://img.shields.io/badge/Twitter-1C96E9?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmdmahikaishar&screen_name=mdmahikaishar)
+[![Instagram](https://img.shields.io/badge/Instagram-F50E70?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mdmahikaishar)
+[![Facebook](https://img.shields.io/badge/Facebook-1773EA?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mdmahikaishar.bro)
+[![Twitch](https://img.shields.io/badge/Twitch-A970FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/mdmahikaishar)
+
+#
+
+#
