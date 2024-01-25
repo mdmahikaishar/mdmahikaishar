@@ -56,6 +56,7 @@ All of my projects are available at [mdmahikaishar.com/projects](mdmahikaishar.v
 ![ExpressJs](https://img.shields.io/badge/Express.Js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/Node.Js-509941?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+![Tauri](https://img.shields.io/badge/Tauri-FFC337?style=for-the-badge&logo=tauri&logoColor=white)
 ![Leptos](https://img.shields.io/badge/Leptos-E73538?style=for-the-badge&logo=leptos&logoColor=white)
 ![Axum](https://img.shields.io/badge/Axum-20232A?style=for-the-badge&logo=rust&logoColor=white)
 ![ActixWeb](https://img.shields.io/badge/ActixWeb-000000?style=for-the-badge&logo=rust&logoColor=white)
